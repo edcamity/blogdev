@@ -1,0 +1,8 @@
+---
+layout: post
+title: "'Brand Quiz' on 10th October 2014"
+date: '2014-12-09 07:24:46'
+---
+
+eDC conducted its third event on Friday, 10th October 2014 at 2.45 pm under the guidance of E-Mentors in Amity School Of Engineering and Technology, Amity University. The event was a quiz named brand quiz which had famous taglines, logos, ad campaigns and simple fun questions. The event received an overwhelming response from the students of Amity School of Engineering and Technology and from other Amity departments such as Amity Law School, Amity School of Business etc as well.  Students participated individually and also in a group of two and three.
+The event comprised of two rounds: The first round was a preliminary round which was done on A4 sheets. The questions were projected on the screen while students wrote down their answers. In between while the sheets were being checked and top 11 teams identified, the students were addressed by Dr. Neelam Saxena, Professor of Entrepreneurship. The final stage round again comprised of three rounds, in which the first round was an elimination round. After the first stage round, only five teams qualified for the round two which played till the end. Participation certificates will be provided to all the participants as they become available and the top three teams received prizes from the honorable professor Dr. Neelam Saxena, Professor of Entrepreneurship. She also guided students about other ways through which they can develop entrepreneurship skills in them. Students showed great enthusiasm for the event and the event was a grand success.
