@@ -6,7 +6,7 @@ markdown: redcarpet
 highlighter: pygments
 logo: false
 paginate: 15
-baseurl: /blog
+baseurl: /blogdev
 domain_name: 'http://edcamity.com/blogdev'
 google_analytics: 'UA-XXXXXXXX-X'
 
